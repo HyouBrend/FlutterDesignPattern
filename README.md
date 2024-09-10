@@ -6,11 +6,7 @@ Flutter Design Pattern adalah sebuah proyek Flutter yang bertujuan untuk mendemo
 
 - [Pendahuluan](#pendahuluan)
 - [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Dependensi](#dependensi)
-- [Struktur Proyek](#struktur-proyek)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
+
 
 ## Pendahuluan
 
@@ -33,34 +29,4 @@ Pastikan Anda telah menginstal [Flutter](https://flutter.dev/docs/get-started/in
 3. Jalankan aplikasi:
     ```bash
    flutter run
-
-Penggunaan:
-
-Buka aplikasi di emulator atau perangkat fisik.
-Jelajahi berbagai pola desain yang diimplementasikan dalam aplikasi ini.
-Pelajari bagaimana masing-masing pola desain diterapkan di dalam kode.
-Dependensi
-Proyek ini menggunakan beberapa dependensi berikut:
-
-Flutter
-font_awesome_flutter - Untuk ikon sosial media
-flutter_bloc - Untuk manajemen state menggunakan Bloc
-equatable - Untuk komparasi objek yang mudah
-Anda dapat menemukan semua dependensi di file pubspec.yaml.
-
-Struktur Proyek
-Berikut adalah struktur dasar dari proyek ini:
-
-
-
-Kontribusi
-Kami menyambut kontribusi dari siapa pun yang tertarik untuk meningkatkan proyek ini. Jika Anda ingin berkontribusi:
-
-Fork repositori ini.
-Buat branch baru dengan fitur atau perbaikan Anda: git checkout -b fitur-anda.
-Push perubahan Anda ke branch tersebut: git push origin fitur-anda.
-Buat Pull Request di GitHub.
-
-Lisensi
-Proyek ini dilisensikan di bawah MIT License.
 
