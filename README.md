@@ -25,9 +25,14 @@ Pastikan Anda telah menginstal [Flutter](https://flutter.dev/docs/get-started/in
    ```bash
    git clone https://github.com/HyouBrend/FlutterDesignPattern.git
    cd FlutterDesignPattern
-Instal dependensi:
+   
+2. Instal dependensi:
+   ```bash
+   flutter pub get
 
-
+3. Jalankan aplikasi:
+    ```bash
+   flutter run
 
 Penggunaan:
 
@@ -47,23 +52,7 @@ Struktur Proyek
 Berikut adalah struktur dasar dari proyek ini:
 
 
-flutter_design_pattern/
-│
-├── lib/
-│   ├── main.dart                   # Titik masuk aplikasi
-│   ├── pages/                      # Halaman aplikasi
-│   │   └── home_page.dart          # Halaman utama
-│   ├── widgets/                    # Widget yang dapat digunakan kembali
-│   │   └── footer.dart             # Footer halaman
-│   ├── theme/                      # File terkait tema dan gaya
-│   ├── util/                       # Utilitas dan helper
-│   └── data/                       # Data dan model
-│
-├── assets/
-│   └── images/                     # Gambar aset
-│       └── logo_hyou.png           # Logo aplikasi
-│
-└── pubspec.yaml                    # Konfigurasi proyek dan dependensi
+
 Kontribusi
 Kami menyambut kontribusi dari siapa pun yang tertarik untuk meningkatkan proyek ini. Jika Anda ingin berkontribusi:
 
